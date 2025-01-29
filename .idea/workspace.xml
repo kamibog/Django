@@ -5,35 +5,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bfa9429-5ee7-40b4-a67e-b03e8053ce1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DjangoProject_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/second_task/class_view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/second_task/function_view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/shop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/.idea/DjangoProject_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/UrbanDjango/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/UrbanDjango/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/UrbanDjango/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example1/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example1/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example1/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example1/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example1/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example1/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example2/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example2/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example2/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example2/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example2/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example2/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example3/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example3/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example3/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example3/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example3/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/example3/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/task2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/task2/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/task2/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/task2/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/task2/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/task2/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/task2/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/task2/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/task3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/task3/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/task3/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/task3/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/task3/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/task3/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/task3/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/templates/second_task/class_view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/templates/second_task/function_view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/templates/third_task/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/templates/third_task/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/templates/third_task/shop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +78,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/UrbanDjango" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -60,14 +89,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Merging master",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="DjangoProject_1" />

@@ -5,11 +5,11 @@ def index(request):
     return render(request, 'third_task/index.html')
 
 def shop(request):
-    items = [
-        {'name': 'Смеситель', 'price':15000},
-        {'name': 'Унитаз', 'price':25000},
-        {'name': 'Ванна', 'price':65000},
-    ]
+    items = {
+        'item1': 'Смеситель',
+        'item2': 'Унитаз',
+        'item3': 'Ванна',
+    }
     return render(request, 'third_task/shop.html', {'items': items})
 
 def cart(request):
